@@ -1,0 +1,13 @@
+.wellcome-background1 {
+  background-image: url("/assets/svg/bgc-wellcome1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.wellcome-background2 {
+  background-image: url("/assets/svg/bgc-wellcome2.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
