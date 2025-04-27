@@ -1,0 +1,15 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}
+
+.mainLoad-animete-fadeIn {
+  animation: fadeIn 2.5s ease-in-out infinite;
+}
