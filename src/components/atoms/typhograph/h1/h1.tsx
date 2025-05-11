@@ -1,8 +1,8 @@
 import { ComponentProps } from "react";
 import { twMerge } from "tailwind-merge";
 
-type TitleProps = ComponentProps<"h1">;
-export const Title = ({ className, ...rest }: TitleProps) => {
+type H1Props = ComponentProps<"h1">;
+export const H1 = ({ className, ...rest }: H1Props) => {
   return (
     <h1
       {...rest}

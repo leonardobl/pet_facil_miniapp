@@ -1,0 +1,20 @@
+.layout-bgsmall {
+  background-image: url("../../../../public/assets/svg/elipse-small.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.layout-bgmedium {
+  background-image: url("../../../../public/assets/svg/elipse-medium.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
+
+.layout-bglarge {
+  background-image: url("../../../../public/assets/svg/elipse-big.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+}
